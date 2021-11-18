@@ -1,0 +1,10 @@
+.list {
+    display: flex;
+    flex-wrap: wrap;
+}
+.shop {
+    flex-basis: auto;
+    border: 1px dotted green;
+    padding: 1em 10em 1em 1em;
+    margin: .5em;
+}
